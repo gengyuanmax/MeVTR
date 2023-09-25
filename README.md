@@ -10,7 +10,7 @@ Official code for the paper "Multi-event Video-Text Retrieval" (ICCV 2023).
 ![Alt text](assets/teaser.png)
 
 ### Datasets
-Please use the [Google Drive link](https://drive.google.com/file/d/18lo2KZ36dIth82Xl2Db_CWYyD9Tdzqc_/view?usp=sharing) to download the annotation files of Charades-Event.
+Please use the [Google Drive link](https://drive.google.com/drive/folders/18Jj8Ce5_La8Ev8E6FSfdI1oMQtvU1d_3?usp=sharing) to download the annotation files of Charades-Event.
 
 Please use the [original captions dataset](https://cs.stanford.edu/people/ranjaykrishna/densevid/) for ActivityNet Captions. 
 
