@@ -1,7 +1,7 @@
 ## Multi-event Video-Text Retrieval
 
 ### Introduction
-Official code for the paper "Multi-event Video-Text Retrieval" (ICCV 2023).
+Official code for the paper "[Multi-event Video-Text Retrieval](https://arxiv.org/abs/2308.11551)" (ICCV 2023).
 
 ![Paper](assets/image.png)
 <!-- arXiv: https://arxiv.org/abs/2108.13684 -->
