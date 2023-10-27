@@ -1,1 +1,4 @@
 .history/*
+captions
+__pycache__/*
+*.sh

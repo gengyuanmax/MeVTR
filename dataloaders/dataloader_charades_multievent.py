@@ -11,7 +11,7 @@ import json
 from dataloaders.rawvideo_util import RawVideoExtractor
 
 
-class Charades_Dataloader(Dataset):
+class CharadesMeDataloader(Dataset):
     max_text_per_video = 12
 
     def __init__(

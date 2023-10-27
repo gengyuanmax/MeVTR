@@ -10,7 +10,7 @@ import json
 from dataloaders.rawvideo_util import RawVideoExtractor
 
 
-class ActivityNet_DataLoader(Dataset):
+class ActivityNetMeDataLoader(Dataset):
     max_text_per_video = 27
 
     def __init__(
