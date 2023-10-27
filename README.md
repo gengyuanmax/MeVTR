@@ -40,6 +40,8 @@ main_task_retrieval_multi.py --do_eval \
 --init_model $CKPT_PATH
 ```
 
+Me-Retriever(mean) checkpoint can be downloaded via [google drive](https://drive.google.com/open?id=18qpXN5fcFTmkjNoKG_Q6liAlkeXYYKSl&usp=drive_fs).  
+
 ### Acknowledgement
 We thank the authors of [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip) for their codebase.
 
